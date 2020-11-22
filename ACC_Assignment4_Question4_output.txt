@@ -1,0 +1,383 @@
+Email id:public-pfwg-comments@w3.org	Index: 2920	File: Accessible Rich Internet Applications (WAI-ARIA) 1.0.htm.txt
+Email id:public-pfwg-comments@w3.org	Index: 3112	File: Accessible Rich Internet Applications (WAI-ARIA) 1.0.txt
+Email id:www-multimodal@w3.org	Index: 2513	File: Best practices for creating MMI Modality Components.htm.txt
+Email id:www-multimodal-request@w3.org	Index: 2741	File: Best practices for creating MMI Modality Components.htm.txt
+Email id:www-multimodal@w3.org	Index: 2713	File: Best practices for creating MMI Modality Components.txt
+Email id:www-multimodal-request@w3.org	Index: 2941	File: Best practices for creating MMI Modality Components.txt
+Phone Number:1065075071	Index:50197	File:Best Practices for Publishing Linked Data.htm.txt
+Email id:public-gld-comments@w3.org	Index: 1898	File: Best Practices for Publishing Linked Data.htm.txt
+Phone Number:1065075071	Index:50403	File:Best Practices for Publishing Linked Data.txt
+Email id:public-gld-comments@w3.org	Index: 2095	File: Best Practices for Publishing Linked Data.txt
+Email id:ohto@w3.org	Index: 291	File: CC PP Implementors Guide  Privacy and Protocols.htm.txt
+Email id:hjelm@nrj.ericsson.se	Index: 367	File: CC PP Implementors Guide  Privacy and Protocols.htm.txt
+Email id:www-mobile@w3.org	Index: 1546	File: CC PP Implementors Guide  Privacy and Protocols.htm.txt
+Email id:ohto@w3.org	Index: 291	File: CC PP Implementors Guide  Privacy and Protocols.txt
+Email id:hjelm@nrj.ericsson.se	Index: 367	File: CC PP Implementors Guide  Privacy and Protocols.txt
+Email id:www-mobile@w3.org	Index: 1747	File: CC PP Implementors Guide  Privacy and Protocols.txt
+Email id:www-component-extension@w3.org	Index: 2186	File: Component Extension (CX) API requirements Version 1.0.htm.txt
+Email id:www-component-extension@w3.org	Index: 2387	File: Component Extension (CX) API requirements Version 1.0.txt
+Email id:nilsson@ks.ericsson.se	Index: 318	File: Composite Capabilities Preference Profiles  Terminology and Abbreviations.htm.txt
+Email id:www-mobile@w3.org	Index: 1350	File: Composite Capabilities Preference Profiles  Terminology and Abbreviations.htm.txt
+Email id:nilsson@ks.ericsson.se	Index: 318	File: Composite Capabilities Preference Profiles  Terminology and Abbreviations.txt
+Email id:www-mobile@w3.org	Index: 1551	File: Composite Capabilities Preference Profiles  Terminology and Abbreviations.txt
+Phone Number:2147483648	Index:43321	File:Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm.txt
+Phone Number:2147483647	Index:43336	File:Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm.txt
+Phone Number:2147483647	Index:44282	File:Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm.txt
+Phone Number:2147483647	Index:44354	File:Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm.txt
+Email id:GK@acm.org	Index: 423	File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm.txt
+Email id:reynolds@nokia.com	Index: 476	File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm.txt
+Email id:woodroc@metaphoria.net	Index: 533	File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm.txt
+Email id:ohto@w3.org	Index: 595	File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm.txt
+Email id:hjelm@ericsson.com	Index: 664	File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm.txt
+Email id:mark-h_butler@hp.com	Index: 709	File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm.txt
+Email id:tran@sun.com	Index: 761	File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm.txt
+Email id:www-mobile@w3.org	Index: 3506	File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm.txt
+Phone Number:2147483648	Index:43600	File:Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.txt
+Phone Number:2147483647	Index:43615	File:Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.txt
+Phone Number:2147483647	Index:44569	File:Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.txt
+Phone Number:2147483647	Index:44641	File:Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.txt
+Email id:GK@acm.org	Index: 423	File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.txt
+Email id:reynolds@nokia.com	Index: 476	File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.txt
+Email id:woodroc@metaphoria.net	Index: 533	File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.txt
+Email id:ohto@w3.org	Index: 595	File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.txt
+Email id:hjelm@ericsson.com	Index: 664	File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.txt
+Email id:mark-h_butler@hp.com	Index: 709	File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.txt
+Email id:tran@sun.com	Index: 761	File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.txt
+Email id:www-mobile@w3.org	Index: 3718	File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.txt
+Email id:public-webappsec@w3.org	Index: 2894	File: Cross-Origin Resource Sharing.htm.txt
+Email id:public-webappsec@w3.org	Index: 3095	File: Cross-Origin Resource Sharing.txt
+Email id:www-style@w3.org	Index: 393	File: CSS Namespaces Module Level 3.htm.txt
+Email id:www-style@w3.org	Index: 2330	File: CSS Namespaces Module Level 3.htm.txt
+Email id:www-style@w3.org	Index: 13129	File: CSS Namespaces Module Level 3.htm.txt
+Email id:www-style@w3.org	Index: 393	File: CSS Namespaces Module Level 3.txt
+Email id:www-style@w3.org	Index: 2531	File: CSS Namespaces Module Level 3.txt
+Email id:www-style@w3.org	Index: 13303	File: CSS Namespaces Module Level 3.txt
+Email id:www-style@w3.org	Index: 1474	File: CSS3 module  Presentation Levels.htm.txt
+Email id:www-style@w3.org	Index: 1675	File: CSS3 module  Presentation Levels.txt
+Email id:public-swbp-wg@w3.org	Index: 2357	File: Defining N-ary Relations on the Semantic Web.htm.txt
+Email id:semantic-web@w3.org	Index: 2520	File: Defining N-ary Relations on the Semantic Web.htm.txt
+Email id:public-swbp-wg@w3.org	Index: 2556	File: Defining N-ary Relations on the Semantic Web.txt
+Email id:semantic-web@w3.org	Index: 2719	File: Defining N-ary Relations on the Semantic Web.txt
+Email id:public-device-apis@w3.org	Index: 1329	File: Device APIs Requirements.htm.txt
+Email id:public-device-apis@w3.org	Index: 1526	File: Device APIs Requirements.txt
+Email id:public-bpwg-comments@w3.org	Index: 2985	File: Guidelines for Web Content Transformation Proxies 1.0.htm.txt
+Email id:public-content-transformation-conformance@w3.org	Index: 3047	File: Guidelines for Web Content Transformation Proxies 1.0.htm.txt
+Email id:public-bpwg-comments@w3.org	Index: 3342	File: Guidelines for Web Content Transformation Proxies 1.0.htm.txt
+Email id:public-content-transformation-conformance@w3.org	Index: 17356	File: Guidelines for Web Content Transformation Proxies 1.0.htm.txt
+Email id:public-bpwg-comments@w3.org	Index: 3186	File: Guidelines for Web Content Transformation Proxies 1.0.txt
+Email id:public-content-transformation-conformance@w3.org	Index: 3248	File: Guidelines for Web Content Transformation Proxies 1.0.txt
+Email id:public-bpwg-comments@w3.org	Index: 3543	File: Guidelines for Web Content Transformation Proxies 1.0.txt
+Email id:public-content-transformation-conformance@w3.org	Index: 17773	File: Guidelines for Web Content Transformation Proxies 1.0.txt
+Email id:public-webapps@w3.org	Index: 350	File: HTML Imports.htm.txt
+Email id:public-webapps@w3.org	Index: 1182	File: HTML Imports.htm.txt
+Email id:public-webapps@w3.org	Index: 350	File: HTML Imports.txt
+Email id:public-webapps@w3.org	Index: 1379	File: HTML Imports.txt
+Email id:public-webapps@w3.org	Index: 468	File: HTML Templates.htm.txt
+Email id:public-webapps@w3.org	Index: 1599	File: HTML Templates.htm.txt
+Email id:public-webapps@w3.org	Index: 468	File: HTML Templates.txt
+Email id:public-webapps@w3.org	Index: 1796	File: HTML Templates.txt
+Phone Number:2147483648	Index:20211	File:HTTP-NG Binary Wire Protocol.htm.txt
+Phone Number:2147483647	Index:20279	File:HTTP-NG Binary Wire Protocol.htm.txt
+Phone Number:4294967295	Index:20470	File:HTTP-NG Binary Wire Protocol.htm.txt
+Phone Number:9223372036	Index:20616	File:HTTP-NG Binary Wire Protocol.htm.txt
+Phone Number:9223372036	Index:20687	File:HTTP-NG Binary Wire Protocol.htm.txt
+Phone Number:1844674407	Index:20898	File:HTTP-NG Binary Wire Protocol.htm.txt
+Phone Number:3709551615	Index:20908	File:HTTP-NG Binary Wire Protocol.htm.txt
+Phone Number:2147483648	Index:28228	File:HTTP-NG Binary Wire Protocol.htm.txt
+Phone Number:2147483647	Index:28247	File:HTTP-NG Binary Wire Protocol.htm.txt
+Phone Number:9223372036	Index:28311	File:HTTP-NG Binary Wire Protocol.htm.txt
+Phone Number:9223372036	Index:28339	File:HTTP-NG Binary Wire Protocol.htm.txt
+Phone Number:4294967296	Index:28554	File:HTTP-NG Binary Wire Protocol.htm.txt
+Phone Number:1844674407	Index:28627	File:HTTP-NG Binary Wire Protocol.htm.txt
+Phone Number:3709551616	Index:28637	File:HTTP-NG Binary Wire Protocol.htm.txt
+Phone Number:(650) 812-4763	Index:43337	File:HTTP-NG Binary Wire Protocol.htm.txt
+Phone Number:(650) 812-4777	Index:43357	File:HTTP-NG Binary Wire Protocol.htm.txt
+Email id:janssen@parc.xerox.com	Index: 43379	File: HTTP-NG Binary Wire Protocol.htm.txt
+Phone Number:2147483648	Index:20238	File:HTTP-NG Binary Wire Protocol.txt
+Phone Number:2147483647	Index:20306	File:HTTP-NG Binary Wire Protocol.txt
+Phone Number:4294967295	Index:20499	File:HTTP-NG Binary Wire Protocol.txt
+Phone Number:9223372036	Index:20647	File:HTTP-NG Binary Wire Protocol.txt
+Phone Number:9223372036	Index:20718	File:HTTP-NG Binary Wire Protocol.txt
+Phone Number:1844674407	Index:20931	File:HTTP-NG Binary Wire Protocol.txt
+Phone Number:3709551615	Index:20941	File:HTTP-NG Binary Wire Protocol.txt
+Phone Number:2147483648	Index:28269	File:HTTP-NG Binary Wire Protocol.txt
+Phone Number:2147483647	Index:28288	File:HTTP-NG Binary Wire Protocol.txt
+Phone Number:9223372036	Index:28352	File:HTTP-NG Binary Wire Protocol.txt
+Phone Number:9223372036	Index:28380	File:HTTP-NG Binary Wire Protocol.txt
+Phone Number:4294967296	Index:28595	File:HTTP-NG Binary Wire Protocol.txt
+Phone Number:1844674407	Index:28668	File:HTTP-NG Binary Wire Protocol.txt
+Phone Number:3709551616	Index:28678	File:HTTP-NG Binary Wire Protocol.txt
+Phone Number:(650) 812-4763	Index:43411	File:HTTP-NG Binary Wire Protocol.txt
+Phone Number:(650) 812-4777	Index:43431	File:HTTP-NG Binary Wire Protocol.txt
+Email id:janssen@parc.xerox.com	Index: 43453	File: HTTP-NG Binary Wire Protocol.txt
+Phone Number:0123456789	Index:14785	File:LBase  Semantics for Languages of the Semantic Web.htm.txt
+Email id:rguha@us.ibm.com	Index: 335	File: LBase  Semantics for Languages of the Semantic Web.htm.txt
+Email id:phayes@ihmc.us	Index: 375	File: LBase  Semantics for Languages of the Semantic Web.htm.txt
+Email id:www-rdf-comments@w3.org	Index: 3512	File: LBase  Semantics for Languages of the Semantic Web.htm.txt
+Email id:www-rdf-logic@w3.org	Index: 3677	File: LBase  Semantics for Languages of the Semantic Web.htm.txt
+Phone Number:0123456789	Index:15003	File:LBase  Semantics for Languages of the Semantic Web.txt
+Email id:rguha@us.ibm.com	Index: 335	File: LBase  Semantics for Languages of the Semantic Web.txt
+Email id:phayes@ihmc.us	Index: 375	File: LBase  Semantics for Languages of the Semantic Web.txt
+Email id:www-rdf-comments@w3.org	Index: 3717	File: LBase  Semantics for Languages of the Semantic Web.txt
+Email id:www-rdf-logic@w3.org	Index: 3882	File: LBase  Semantics for Languages of the Semantic Web.txt
+Email id:xml-editor@w3.org	Index: 1881	File: Legacy extended IRIs for XML resource identification.htm.txt
+Email id:ht@inf.ed.ac.uk	Index: 371	File: Legacy extended IRIs for XML resource identification.txt
+Email id:richard@inf.ed.ac.uk	Index: 428	File: Legacy extended IRIs for XML resource identification.txt
+Email id:walsh@marklogic.com	Index: 495	File: Legacy extended IRIs for XML resource identification.txt
+Email id:xml-editor@w3.org	Index: 2152	File: Legacy extended IRIs for XML resource identification.txt
+Email id:public-gld-comments@w3.org	Index: 1399	File: Linked Data Glossary.htm.txt
+Email id:public-gld-comments@w3.org	Index: 1592	File: Linked Data Glossary.txt
+Email id:public-mbui@w3.org	Index: 1784	File: MBUI - Task Models.htm.txt
+Email id:public-mbui@w3.org	Index: 1985	File: MBUI - Task Models.txt
+Phone Number:3398648111	Index:46739	File:Metadata API for Media Resources 1.0.htm.txt
+Phone Number:8850708007	Index:46775	File:Metadata API for Media Resources 1.0.htm.txt
+Phone Number:3398648111	Index:75183	File:Metadata API for Media Resources 1.0.htm.txt
+Phone Number:8850708007	Index:75217	File:Metadata API for Media Resources 1.0.htm.txt
+Email id:public-media-annotation@w3.org	Index: 2438	File: Metadata API for Media Resources 1.0.htm.txt
+Email id:public-media-annotation@w3.org	Index: 92116	File: Metadata API for Media Resources 1.0.htm.txt
+Phone Number:3398648111	Index:46100	File:Metadata API for Media Resources 1.0.txt
+Phone Number:8850708007	Index:46136	File:Metadata API for Media Resources 1.0.txt
+Phone Number:3398648111	Index:74580	File:Metadata API for Media Resources 1.0.txt
+Phone Number:8850708007	Index:74614	File:Metadata API for Media Resources 1.0.txt
+Email id:public-media-annotation@w3.org	Index: 2639	File: Metadata API for Media Resources 1.0.txt
+Email id:public-media-annotation@w3.org	Index: 91599	File: Metadata API for Media Resources 1.0.txt
+Phone Number:201-555-0111	Index:38829	File:Mobile Web Application Best Practices.htm.txt
+Email id:public-bpwg-comments@w3.org	Index: 2240	File: Mobile Web Application Best Practices.htm.txt
+Phone Number:201-555-0111	Index:39226	File:Mobile Web Application Best Practices.txt
+Email id:public-bpwg-comments@w3.org	Index: 2441	File: Mobile Web Application Best Practices.txt
+Email id:public-html-comments@w3.org	Index: 1253	File: Offline Web Applications.htm.txt
+Email id:public-html-comments@w3.org	Index: 1454	File: Offline Web Applications.txt
+Email id:public-rif-comments@w3.org	Index: 2162	File: OWL 2 RL in RIF (Second Edition).htm.txt
+Email id:public-rif-dev@w3.org	Index: 2413	File: OWL 2 RL in RIF (Second Edition).htm.txt
+Email id:public-rif-comments@w3.org	Index: 2406	File: OWL 2 RL in RIF (Second Edition).txt
+Email id:public-rif-dev@w3.org	Index: 2657	File: OWL 2 RL in RIF (Second Edition).txt
+Email id:public-owl-comments@w3.org	Index: 2405	File: OWL 2 Web Ontology Language Direct Semantics (Second Edition).htm.txt
+Email id:public-owl-dev@w3.org	Index: 2630	File: OWL 2 Web Ontology Language Direct Semantics (Second Edition).htm.txt
+Email id:public-owl-comments@w3.org	Index: 2606	File: OWL 2 Web Ontology Language Direct Semantics (Second Edition).txt
+Email id:public-owl-dev@w3.org	Index: 2831	File: OWL 2 Web Ontology Language Direct Semantics (Second Edition).txt
+Email id:public-owl-comments@w3.org	Index: 2368	File: OWL 2 Web Ontology Language Mapping to RDF Graphs (Second Edition).htm.txt
+Email id:public-owl-dev@w3.org	Index: 2593	File: OWL 2 Web Ontology Language Mapping to RDF Graphs (Second Edition).htm.txt
+Email id:public-owl-comments@w3.org	Index: 2569	File: OWL 2 Web Ontology Language Mapping to RDF Graphs (Second Edition).txt
+Email id:public-owl-dev@w3.org	Index: 2794	File: OWL 2 Web Ontology Language Mapping to RDF Graphs (Second Edition).txt
+Email id:public-owl-comments@w3.org	Index: 2488	File: OWL 2 Web Ontology Language New Features and Rationale (Second Edition).htm.txt
+Email id:public-owl-dev@w3.org	Index: 2713	File: OWL 2 Web Ontology Language New Features and Rationale (Second Edition).htm.txt
+Email id:public-owl-comments@w3.org	Index: 2689	File: OWL 2 Web Ontology Language New Features and Rationale (Second Edition).txt
+Email id:public-owl-dev@w3.org	Index: 2914	File: OWL 2 Web Ontology Language New Features and Rationale (Second Edition).txt
+Email id:public-owl-comments@w3.org	Index: 2234	File: OWL 2 Web Ontology Language RDF-Based Semantics (Second Edition).htm.txt
+Email id:public-owl-dev@w3.org	Index: 2459	File: OWL 2 Web Ontology Language RDF-Based Semantics (Second Edition).htm.txt
+Email id:public-owl-comments@w3.org	Index: 2435	File: OWL 2 Web Ontology Language RDF-Based Semantics (Second Edition).txt
+Email id:public-owl-dev@w3.org	Index: 2660	File: OWL 2 Web Ontology Language RDF-Based Semantics (Second Edition).txt
+Email id:public-owl-comments@w3.org	Index: 2450	File: OWL 2 Web Ontology Language XML Serialization (Second Edition).htm.txt
+Email id:public-owl-dev@w3.org	Index: 2675	File: OWL 2 Web Ontology Language XML Serialization (Second Edition).htm.txt
+Email id:ivan@w3.org	Index: 14035	File: OWL 2 Web Ontology Language XML Serialization (Second Edition).htm.txt
+Email id:sandro@w3.org	Index: 14063	File: OWL 2 Web Ontology Language XML Serialization (Second Edition).htm.txt
+Email id:public-owl-comments@w3.org	Index: 14136	File: OWL 2 Web Ontology Language XML Serialization (Second Edition).htm.txt
+Email id:public-owl-comments@w3.org	Index: 2651	File: OWL 2 Web Ontology Language XML Serialization (Second Edition).txt
+Email id:public-owl-dev@w3.org	Index: 2876	File: OWL 2 Web Ontology Language XML Serialization (Second Edition).txt
+Email id:ivan@w3.org	Index: 14441	File: OWL 2 Web Ontology Language XML Serialization (Second Edition).txt
+Email id:sandro@w3.org	Index: 14469	File: OWL 2 Web Ontology Language XML Serialization (Second Edition).txt
+Email id:public-owl-comments@w3.org	Index: 14542	File: OWL 2 Web Ontology Language XML Serialization (Second Edition).txt
+Email id:Harmelen@cs.vu.nl	Index: 764	File: OWL Web Ontology Language Overview.htm.txt
+Email id:public-webont-comments@w3.org	Index: 2979	File: OWL Web Ontology Language Overview.htm.txt
+Email id:www-rdf-logic@w3.org	Index: 3078	File: OWL Web Ontology Language Overview.htm.txt
+Email id:Harmelen@cs.vu.nl	Index: 764	File: OWL Web Ontology Language Overview.txt
+Email id:public-webont-comments@w3.org	Index: 3180	File: OWL Web Ontology Language Overview.txt
+Email id:www-rdf-logic@w3.org	Index: 3279	File: OWL Web Ontology Language Overview.txt
+Phone Number:2343543645	Index:16613	File:PEP - an Extension Mechanism for HTTP.htm.txt
+Email id:connolly@w3.org	Index: 39034	File: PEP - an Extension Mechanism for HTTP.htm.txt
+Email id:khare@w3.org	Index: 39198	File: PEP - an Extension Mechanism for HTTP.htm.txt
+Email id:frystyk@w3.org	Index: 39370	File: PEP - an Extension Mechanism for HTTP.htm.txt
+Email id:eric@w3.org	Index: 39535	File: PEP - an Extension Mechanism for HTTP.htm.txt
+Phone Number:2343543645	Index:16708	File:PEP - an Extension Mechanism for HTTP.txt
+Email id:connolly@w3.org	Index: 39175	File: PEP - an Extension Mechanism for HTTP.txt
+Email id:khare@w3.org	Index: 39339	File: PEP - an Extension Mechanism for HTTP.txt
+Email id:frystyk@w3.org	Index: 39511	File: PEP - an Extension Mechanism for HTTP.txt
+Email id:eric@w3.org	Index: 39676	File: PEP - an Extension Mechanism for HTTP.txt
+Email id:public-device-apis@w3.org	Index: 1540	File: Permissions for Device API Access.htm.txt
+Email id:public-device-apis@w3.org	Index: 1741	File: Permissions for Device API Access.txt
+Phone Number:9780136019	Index:9024	File:RDF 1.1 Turtle.htm.txt
+Email id:public-rdf-comments@w3.org	Index: 2007	File: RDF 1.1 Turtle.htm.txt
+Phone Number:9780136019	Index:8885	File:RDF 1.1 Turtle.txt
+Email id:public-rdf-comments@w3.org	Index: 2200	File: RDF 1.1 Turtle.txt
+Email id:public-swbp-wg@w3.org	Index: 2016	File: Representing Classes As Property Values on the Semantic Web.htm.txt
+Email id:public-swbp-wg@w3.org	Index: 2215	File: Representing Classes As Property Values on the Semantic Web.txt
+Email id:public-swbp-wg@w3.org	Index: 1995	File: Representing Specified Values in OWL   value partitions  and  value sets .htm.txt
+Email id:public-swbp-wg@w3.org	Index: 2193	File: Representing Specified Values in OWL   value partitions  and  value sets .txt
+Email id:public-pfwg-comments@w3.org	Index: 2650	File: Roadmap for Accessible Rich Internet Applications (WAI-ARIA Roadmap).htm.txt
+Email id:public-pfwg-comments@w3.org	Index: 2855	File: Roadmap for Accessible Rich Internet Applications (WAI-ARIA Roadmap).txt
+Email id:shane@aptest.com	Index: 461	File: Role Attribute 1.0.htm.txt
+Email id:public-pfwg-comments@w3.org	Index: 3351	File: Role Attribute 1.0.htm.txt
+Email id:shane@aptest.com	Index: 461	File: Role Attribute 1.0.txt
+Email id:public-pfwg-comments@w3.org	Index: 3541	File: Role Attribute 1.0.txt
+Email id:public-webappsec@w3.org	Index: 1325	File: Subresource Integrity.htm.txt
+Email id:public-webappsec@w3.org	Index: 1522	File: Subresource Integrity.txt
+Email id:wai-uaag-editor@w3.org	Index: 3291	File: Techniques for User Agent Accessibility Guidelines 1.0.htm.txt
+Email id:w3c-wai-ua@w3.org	Index: 3389	File: Techniques for User Agent Accessibility Guidelines 1.0.htm.txt
+Email id:wai-uaag-editor@w3.org	Index: 3475	File: Techniques for User Agent Accessibility Guidelines 1.0.txt
+Email id:w3c-wai-ua@w3.org	Index: 3573	File: Techniques for User Agent Accessibility Guidelines 1.0.txt
+Email id:public-gld-comments@w3.org	Index: 1544	File: Terms for describing people.htm.txt
+Email id:public-gld-comments@w3.org	Index: 1741	File: Terms for describing people.txt
+Email id:echo@paul.demos	Index: 25285	File: The ILU Requestor for HTTP servers.htm.txt
+Email id:dumb@paul.demos	Index: 25341	File: The ILU Requestor for HTTP servers.htm.txt
+Email id:echo@paul.demos	Index: 25892	File: The ILU Requestor for HTTP servers.htm.txt
+Email id:dumb@paul.demos	Index: 25949	File: The ILU Requestor for HTTP servers.htm.txt
+Email id:paul@digicool.com	Index: 36224	File: The ILU Requestor for HTTP servers.htm.txt
+Email id:echo@paul.demos	Index: 26581	File: The ILU Requestor for HTTP servers.txt
+Email id:dumb@paul.demos	Index: 26637	File: The ILU Requestor for HTTP servers.txt
+Email id:echo@paul.demos	Index: 27188	File: The ILU Requestor for HTTP servers.txt
+Email id:dumb@paul.demos	Index: 27245	File: The ILU Requestor for HTTP servers.txt
+Email id:paul@digicool.com	Index: 37568	File: The ILU Requestor for HTTP servers.txt
+Email id:public-gld-comments@w3.org	Index: 2949	File: The RDF Data Cube Vocabulary.htm.txt
+Email id:public-gld-comments@w3.org	Index: 3146	File: The RDF Data Cube Vocabulary.txt
+Email id:public-webapps@w3.org	Index: 2234	File: The WebSocket API.htm.txt
+Email id:whatwg@whatwg.org	Index: 2282	File: The WebSocket API.htm.txt
+Email id:public-webapps@w3.org	Index: 2435	File: The WebSocket API.txt
+Email id:whatwg@whatwg.org	Index: 2483	File: The WebSocket API.txt
+Email id:public-tracking-comments@w3.org	Index: 2065	File: Tracking Compliance and Scope.htm.txt
+Email id:public-tracking-comments@w3.org	Index: 2262	File: Tracking Compliance and Scope.txt
+Email id:www-multimodal@w3.org	Index: 4602	File: Vocabularies for EmotionML.htm.txt
+Email id:www-multimodal-request@w3.org	Index: 4830	File: Vocabularies for EmotionML.htm.txt
+Email id:www-multimodal@w3.org	Index: 8296	File: Vocabularies for EmotionML.htm.txt
+Email id:www-multimodal@w3.org	Index: 4807	File: Vocabularies for EmotionML.txt
+Email id:www-multimodal-request@w3.org	Index: 5035	File: Vocabularies for EmotionML.txt
+Email id:www-multimodal@w3.org	Index: 8508	File: Vocabularies for EmotionML.txt
+Email id:w3c-ecommerce-ig@w3.org	Index: 1494	File: W3C activities related to Electronic Commerce.htm.txt
+Email id:w3c-ecommerce-ig@w3.org	Index: 6236	File: W3C activities related to Electronic Commerce.htm.txt
+Email id:w3c-ecommerce-ig-request@w3.org	Index: 16451	File: W3C activities related to Electronic Commerce.htm.txt
+Email id:w3c-ecommerce-ig@w3.org	Index: 1694	File: W3C activities related to Electronic Commerce.txt
+Email id:w3c-ecommerce-ig@w3.org	Index: 6667	File: W3C activities related to Electronic Commerce.txt
+Email id:w3c-ecommerce-ig-request@w3.org	Index: 16899	File: W3C activities related to Electronic Commerce.txt
+Email id:public-pfwg-comments@w3.org	Index: 3196	File: WAI-ARIA 1.0 Authoring Practices.htm.txt
+Email id:public-pfwg-comments@w3.org	Index: 3409	File: WAI-ARIA 1.0 Authoring Practices.txt
+Email id:public-audio@w3.org	Index: 1322	File: Web Audio Processing  Use Cases and Requirements.htm.txt
+Email id:public-audio@w3.org	Index: 44611	File: Web Audio Processing  Use Cases and Requirements.htm.txt
+Email id:public-audio@w3.org	Index: 1519	File: Web Audio Processing  Use Cases and Requirements.txt
+Email id:public-audio@w3.org	Index: 44977	File: Web Audio Processing  Use Cases and Requirements.txt
+Email id:public-audio@w3.org	Index: 622	File: Web MIDI API.htm.txt
+Email id:public-audio@w3.org	Index: 4020	File: Web MIDI API.htm.txt
+Email id:public-audio@w3.org	Index: 622	File: Web MIDI API.txt
+Email id:public-audio@w3.org	Index: 4217	File: Web MIDI API.txt
+Phone Number:2008020814	Index:61272	File:Web Security Context  User Interface Guidelines.htm.txt
+Email id:public-usable-authentication@w3.org	Index: 2418	File: Web Security Context  User Interface Guidelines.htm.txt
+Phone Number:2008020814	Index:61587	File:Web Security Context  User Interface Guidelines.txt
+Email id:public-usable-authentication@w3.org	Index: 2624	File: Web Security Context  User Interface Guidelines.txt
+Email id:www-ws-arch@w3.org	Index: 1676	File: Web Services Architecture.htm.txt
+Email id:www-ws-arch@w3.org	Index: 1877	File: Web Services Architecture.txt
+Email id:public-ws-policy-comments@w3.org	Index: 2577	File: Web Services Policy 1.5 - Framework.htm.txt
+Email id:public-ws-policy@w3.org	Index: 74377	File: Web Services Policy 1.5 - Framework.htm.txt
+Email id:public-ws-policy-comments@w3.org	Index: 2778	File: Web Services Policy 1.5 - Framework.txt
+Email id:public-ws-policy@w3.org	Index: 74705	File: Web Services Policy 1.5 - Framework.txt
+Phone Number:401-1999122	Index:29105	File:XHTML Basic 1.1 - Second Edition.htm.txt
+Email id:shane@aptest.com	Index: 542	File: XHTML Basic 1.1 - Second Edition.htm.txt
+Email id:www-html-editor@w3.org	Index: 3852	File: XHTML Basic 1.1 - Second Edition.htm.txt
+Email id:www-html@w3.org	Index: 3984	File: XHTML Basic 1.1 - Second Edition.htm.txt
+Phone Number:401-1999122	Index:29416	File:XHTML Basic 1.1 - Second Edition.txt
+Email id:shane@aptest.com	Index: 542	File: XHTML Basic 1.1 - Second Edition.txt
+Email id:www-html-editor@w3.org	Index: 4053	File: XHTML Basic 1.1 - Second Edition.txt
+Email id:www-html@w3.org	Index: 4185	File: XHTML Basic 1.1 - Second Edition.txt
+Phone Number:401-1999122	Index:63249	File:XML Linking Language (XLink) Version 1.1.htm.txt
+Email id:www-xml-linking-comments@w3.org	Index: 1813	File: XML Linking Language (XLink) Version 1.1.htm.txt
+Phone Number:401-1999122	Index:63730	File:XML Linking Language (XLink) Version 1.1.txt
+Email id:www-xml-linking-comments@w3.org	Index: 2014	File: XML Linking Language (XLink) Version 1.1.txt
+Phone Number:001111 1011	Index:22807	File:XML Schema Datatypes in RDF and OWL.htm.txt
+Email id:public-swbp-wg@w3.org	Index: 1634	File: XML Schema Datatypes in RDF and OWL.htm.txt
+Email id:semantic-web@w3.org	Index: 1792	File: XML Schema Datatypes in RDF and OWL.htm.txt
+Phone Number:001111 1011	Index:23465	File:XML Schema Datatypes in RDF and OWL.txt
+Email id:public-swbp-wg@w3.org	Index: 1835	File: XML Schema Datatypes in RDF and OWL.txt
+Email id:semantic-web@w3.org	Index: 1993	File: XML Schema Datatypes in RDF and OWL.txt
+Email id:d3e3e3@gmail.com	Index: 433	File: XML Signature Syntax and Processing Version 1.1.htm.txt
+Email id:reagle@mit.edu	Index: 465	File: XML Signature Syntax and Processing Version 1.1.htm.txt
+Email id:dsolo@alum.mit.edu	Index: 492	File: XML Signature Syntax and Processing Version 1.1.htm.txt
+Email id:hirsch@nokia.com	Index: 539	File: XML Signature Syntax and Processing Version 1.1.htm.txt
+Email id:mnystrom@microsoft.com	Index: 591	File: XML Signature Syntax and Processing Version 1.1.htm.txt
+Email id:tlr@w3.org	Index: 637	File: XML Signature Syntax and Processing Version 1.1.htm.txt
+Email id:kelviny@microsoft.com	Index: 679	File: XML Signature Syntax and Processing Version 1.1.htm.txt
+Email id:mbartel@adobe.com	Index: 729	File: XML Signature Syntax and Processing Version 1.1.htm.txt
+Email id:boyerj@ca.ibm.com	Index: 759	File: XML Signature Syntax and Processing Version 1.1.htm.txt
+Email id:bfox@Exchange.Microsoft.com	Index: 787	File: XML Signature Syntax and Processing Version 1.1.htm.txt
+Email id:bal@microsoft.com	Index: 832	File: XML Signature Syntax and Processing Version 1.1.htm.txt
+Email id:edsimon@xmlsec.com	Index: 860	File: XML Signature Syntax and Processing Version 1.1.htm.txt
+Email id:public-xmlsec@w3.org	Index: 3938	File: XML Signature Syntax and Processing Version 1.1.htm.txt
+Email id:d3e3e3@gmail.com	Index: 433	File: XML Signature Syntax and Processing Version 1.1.txt
+Email id:reagle@mit.edu	Index: 465	File: XML Signature Syntax and Processing Version 1.1.txt
+Email id:dsolo@alum.mit.edu	Index: 492	File: XML Signature Syntax and Processing Version 1.1.txt
+Email id:hirsch@nokia.com	Index: 539	File: XML Signature Syntax and Processing Version 1.1.txt
+Email id:mnystrom@microsoft.com	Index: 591	File: XML Signature Syntax and Processing Version 1.1.txt
+Email id:tlr@w3.org	Index: 637	File: XML Signature Syntax and Processing Version 1.1.txt
+Email id:kelviny@microsoft.com	Index: 679	File: XML Signature Syntax and Processing Version 1.1.txt
+Email id:mbartel@adobe.com	Index: 729	File: XML Signature Syntax and Processing Version 1.1.txt
+Email id:boyerj@ca.ibm.com	Index: 759	File: XML Signature Syntax and Processing Version 1.1.txt
+Email id:bfox@Exchange.Microsoft.com	Index: 787	File: XML Signature Syntax and Processing Version 1.1.txt
+Email id:bal@microsoft.com	Index: 832	File: XML Signature Syntax and Processing Version 1.1.txt
+Email id:edsimon@xmlsec.com	Index: 860	File: XML Signature Syntax and Processing Version 1.1.txt
+Email id:public-xmlsec@w3.org	Index: 4135	File: XML Signature Syntax and Processing Version 1.1.txt
+Email id:public-webapps@w3.org	Index: 2022	File: XMLHttpRequest Level 1.htm.txt
+Email id:whatwg@whatwg.org	Index: 7226	File: XMLHttpRequest Level 1.htm.txt
+Email id:public-webapi@w3.org	Index: 7244	File: XMLHttpRequest Level 1.htm.txt
+Email id:public-appformats@w3.org	Index: 7265	File: XMLHttpRequest Level 1.htm.txt
+Email id:public-webapps@w3.org	Index: 7290	File: XMLHttpRequest Level 1.htm.txt
+Email id:public-webapps@w3.org	Index: 9946	File: XMLHttpRequest Level 1.htm.txt
+Email id:public-webapps@w3.org	Index: 2223	File: XMLHttpRequest Level 1.txt
+Email id:whatwg@whatwg.org	Index: 7061	File: XMLHttpRequest Level 1.txt
+Email id:public-webapi@w3.org	Index: 7081	File: XMLHttpRequest Level 1.txt
+Email id:public-appformats@w3.org	Index: 7104	File: XMLHttpRequest Level 1.txt
+Email id:public-webapps@w3.org	Index: 7131	File: XMLHttpRequest Level 1.txt
+Email id:public-webapps@w3.org	Index: 9787	File: XMLHttpRequest Level 1.txt
+Phone Number:4249999999	Index:93361	File:XPath and XQuery Functions and Operators 3.0.htm.txt
+Phone Number:9999999999	Index:128897	File:XPath and XQuery Functions and Operators 3.0.htm.txt
+Phone Number:1415926535	Index:135021	File:XPath and XQuery Functions and Operators 3.0.htm.txt
+Phone Number:2831853071	Index:135085	File:XPath and XQuery Functions and Operators 3.0.htm.txt
+Phone Number:7182818284	Index:135889	File:XPath and XQuery Functions and Operators 3.0.htm.txt
+Phone Number:3890560989	Index:135946	File:XPath and XQuery Functions and Operators 3.0.htm.txt
+Phone Number:3678794411	Index:136002	File:XPath and XQuery Functions and Operators 3.0.htm.txt
+Phone Number:1406926327	Index:136069	File:XPath and XQuery Functions and Operators 3.0.htm.txt
+Phone Number:1622776601	Index:137018	File:XPath and XQuery Functions and Operators 3.0.htm.txt
+Phone Number:9077552789	Index:138158	File:XPath and XQuery Functions and Operators 3.0.htm.txt
+Phone Number:6931471805	Index:138214	File:XPath and XQuery Functions and Operators 3.0.htm.txt
+Phone Number:3010299956	Index:139420	File:XPath and XQuery Functions and Operators 3.0.htm.txt
+Phone Number:4142135623	Index:143802	File:XPath and XQuery Functions and Operators 3.0.htm.txt
+Phone Number:6331239353	Index:147844	File:XPath and XQuery Functions and Operators 3.0.htm.txt
+Phone Number:6331239353	Index:147933	File:XPath and XQuery Functions and Operators 3.0.htm.txt
+Phone Number:5707963267	Index:149344	File:XPath and XQuery Functions and Operators 3.0.htm.txt
+Phone Number:5707963267	Index:149424	File:XPath and XQuery Functions and Operators 3.0.htm.txt
+Phone Number:5707963267	Index:150658	File:XPath and XQuery Functions and Operators 3.0.htm.txt
+Phone Number:5707963267	Index:150737	File:XPath and XQuery Functions and Operators 3.0.htm.txt
+Phone Number:1415926535	Index:150863	File:XPath and XQuery Functions and Operators 3.0.htm.txt
+Phone Number:7853981633	Index:152205	File:XPath and XQuery Functions and Operators 3.0.htm.txt
+Phone Number:7853981633	Index:152285	File:XPath and XQuery Functions and Operators 3.0.htm.txt
+Phone Number:5707963267	Index:152443	File:XPath and XQuery Functions and Operators 3.0.htm.txt
+Phone Number:5707963267	Index:152534	File:XPath and XQuery Functions and Operators 3.0.htm.txt
+Phone Number:0000000000	Index:431327	File:XPath and XQuery Functions and Operators 3.0.htm.txt
+Phone Number:1000000000	Index:431337	File:XPath and XQuery Functions and Operators 3.0.htm.txt
+Phone Number:0000000000	Index:431366	File:XPath and XQuery Functions and Operators 3.0.htm.txt
+Phone Number:9699919799	Index:602915	File:XPath and XQuery Functions and Operators 3.0.htm.txt
+Email id:public-qt-comments@w3.org	Index: 4569	File: XPath and XQuery Functions and Operators 3.0.htm.txt
+Phone Number:4249999999	Index:92384	File:XPath and XQuery Functions and Operators 3.0.txt
+Phone Number:9999999999	Index:127181	File:XPath and XQuery Functions and Operators 3.0.txt
+Phone Number:1415926535	Index:133246	File:XPath and XQuery Functions and Operators 3.0.txt
+Phone Number:2831853071	Index:133310	File:XPath and XQuery Functions and Operators 3.0.txt
+Phone Number:7182818284	Index:134062	File:XPath and XQuery Functions and Operators 3.0.txt
+Phone Number:3890560989	Index:134119	File:XPath and XQuery Functions and Operators 3.0.txt
+Phone Number:3678794411	Index:134175	File:XPath and XQuery Functions and Operators 3.0.txt
+Phone Number:1406926327	Index:134242	File:XPath and XQuery Functions and Operators 3.0.txt
+Phone Number:1622776601	Index:135139	File:XPath and XQuery Functions and Operators 3.0.txt
+Phone Number:9077552789	Index:136227	File:XPath and XQuery Functions and Operators 3.0.txt
+Phone Number:6931471805	Index:136283	File:XPath and XQuery Functions and Operators 3.0.txt
+Phone Number:3010299956	Index:137437	File:XPath and XQuery Functions and Operators 3.0.txt
+Phone Number:4142135623	Index:141715	File:XPath and XQuery Functions and Operators 3.0.txt
+Phone Number:6331239353	Index:145601	File:XPath and XQuery Functions and Operators 3.0.txt
+Phone Number:6331239353	Index:145690	File:XPath and XQuery Functions and Operators 3.0.txt
+Phone Number:5707963267	Index:147049	File:XPath and XQuery Functions and Operators 3.0.txt
+Phone Number:5707963267	Index:147129	File:XPath and XQuery Functions and Operators 3.0.txt
+Phone Number:5707963267	Index:148311	File:XPath and XQuery Functions and Operators 3.0.txt
+Phone Number:5707963267	Index:148390	File:XPath and XQuery Functions and Operators 3.0.txt
+Phone Number:1415926535	Index:148516	File:XPath and XQuery Functions and Operators 3.0.txt
+Phone Number:7853981633	Index:149806	File:XPath and XQuery Functions and Operators 3.0.txt
+Phone Number:7853981633	Index:149886	File:XPath and XQuery Functions and Operators 3.0.txt
+Phone Number:5707963267	Index:150044	File:XPath and XQuery Functions and Operators 3.0.txt
+Phone Number:5707963267	Index:150135	File:XPath and XQuery Functions and Operators 3.0.txt
+Phone Number:0000000000	Index:421249	File:XPath and XQuery Functions and Operators 3.0.txt
+Phone Number:1000000000	Index:421259	File:XPath and XQuery Functions and Operators 3.0.txt
+Phone Number:0000000000	Index:421288	File:XPath and XQuery Functions and Operators 3.0.txt
+Phone Number:9699919799	Index:589922	File:XPath and XQuery Functions and Operators 3.0.txt
+Email id:public-qt-comments@w3.org	Index: 4797	File: XPath and XQuery Functions and Operators 3.0.txt

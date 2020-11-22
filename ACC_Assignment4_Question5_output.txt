@@ -1,0 +1,707 @@
+Links with Folders: http://www.w3.org/TR/2001/REC-xmlschema-1-20010502/	Index: 78529	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with Folders: http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/	Index: 78710	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with Folders: http://www.w3.org/DesignIssues/Toolbox.html	Index: 78857	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with Folders: http://www.w3.org/TR/2000/WD-CCPP-ra-20000721/	Index: 81117	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with Folders: http://www.w3.org/1999/06/NOTE-CCPPexchange-19990624	Index: 81902	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with Folders: http://www.w3.org/TR/2002/WD-WCAG20-20020822/	Index: 82108	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with Folders: http://www.w3.org/TR/2003/WD-rdf-primer-20030123/	Index: 82262	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with Folders: http://www.w3.org/2002/11/08-ccpp-schema	Index: 93092	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with Folders: http://www.w3.org/1999/02/22-rdf-syntax-ns#'	Index: 93258	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with Folders: http://www.w3.org/2000/01/rdf-schema#'	Index: 93324	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with Folders: http://www.w3.org/2002/11/08-ccpp-schema#'	Index: 93384	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with Folders: http://www.w3.org/TR/xmlschema-2/#string'/	Index: 94767	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with Folders: http://www.w3.org/TR/xmlschema-2/#integer'/	Index: 95176	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with Folders: http://www.w3.org/2002/11/08-ccpp-client.	Index: 99499	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with Folders: http://www.w3.org/2002/11/08-ccpp-client	Index: 103406	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with Folders: http://www.w3.org/1999/02/22-rdf-syntax-ns#'	Index: 103556	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with Folders: http://www.w3.org/2000/01/rdf-schema#'	Index: 103622	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with Folders: http://www.w3.org/2002/11/08-ccpp-schema#'	Index: 103682	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with Folders: http://www.w3.org/2002/11/08-ccpp-client#'	Index: 103753	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with Folders: http://www.w3.org/XML/xml-V10-2e-errata#E26.	Index: 134463	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with Folders: http://www.w3.org/2002/05/20-ccpp#.	Index: 136188	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with Folders: http://www.w3.org/2002/12/13-ccpp-schema	Index: 139402	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with Folders: http://www.w3.org/2002/12/13-ccpp	Index: 139447	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with Folders: http://www.w3.org/2002/11/08-ccpp	Index: 140626	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with Folders: http://www.w3.org/2002/11/08-ccpp-schema	Index: 140663	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with references and may contain folders: http://www.w3.org/TR/xmlschema-2/#string		Index: 94767	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with references and may contain folders: http://www.w3.org/TR/xmlschema-2/#integer		Index: 95176	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2004/REC-CCPP-struct-vocab-20040115/		Index: 213	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/CCPP-struct-vocab/		Index: 287	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2003/PR-CCPP-struct-vocab-20031015/		Index: 345	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/.		Index: 2585	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/1999/02/22-rdf-syntax-ns#"		Index: 16991	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/schema#"		Index: 17048	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/profile#Subject-resource"		Index: 17187	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/profile#Object-resource"		Index: 17300	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/profile#Subject-resource"		Index: 17527	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/schema#Object-resource"		Index: 17617	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/profile#Subject-resource"		Index: 17793	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/profile#Subject-resource"		Index: 18024	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"		Index: 18161	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/profile#Subject-resource"		Index: 18508	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/schema#Subject-type"		Index: 18862	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/schema#Object-type"		Index: 18996	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/profile#Subject-resource"		Index: 19435	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/profile#Object-resource"		Index: 19548	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/1999/02/22-rdf-syntax-ns#"		Index: 20882	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2002/11/08-ccpp-schema#"		Index: 20948	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/schema#"		Index: 21015	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/profile#MyProfile"		Index: 21079	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/profile#TerminalHardware"		Index: 21188	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/profile#TerminalSoftware"		Index: 21403	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/profile#TerminalBrowser"		Index: 21618	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/1999/02/22-rdf-syntax-ns#"		Index: 23932	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2002/11/08-ccpp-schema#"		Index: 23998	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/schema#"		Index: 24060	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/profile#MyProfile"		Index: 24130	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/profile#TerminalHardware"		Index: 24239	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/schema#HardwarePlatform"		Index: 24333	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/profile#TerminalSoftware"		Index: 24593	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/schema#SoftwarePlatform"		Index: 24687	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/profile#TerminalBrowser"		Index: 24959	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/schema#BrowserUA"		Index: 25052	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/1999/02/22-rdf-syntax-ns#"		Index: 27785	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2002/11/08-ccpp-schema#"		Index: 27851	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/schema#"		Index: 27913	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/profile#MyProfile"		Index: 27983	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/profile#TerminalHardware"		Index: 28092	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/schema#HardwarePlatform"		Index: 28186	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/hardwareProfile#HWDefault"		Index: 28286	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/profile#TerminalSoftware"		Index: 28452	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/schema#SoftwarePlatform"		Index: 28546	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/softwareProfile#SWDefault"		Index: 28646	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/profile#TerminalBrowser"		Index: 28812	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/schema#BrowserUA"		Index: 28905	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/terminalProfile#UADefault"		Index: 28998	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/1999/02/22-rdf-syntax-ns#"		Index: 29204	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/schema#"		Index: 29268	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/hardwareProfile#HWDefault"		Index: 29337	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/schema#HardwarePlatform"		Index: 29424	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/1999/02/22-rdf-syntax-ns#"		Index: 29668	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/schema#"		Index: 29732	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/softwareProfile#SWDefault"		Index: 29801	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/schema#SoftwarePlatform"		Index: 29888	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/1999/02/22-rdf-syntax-ns#"		Index: 30133	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/schema#"		Index: 30197	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/terminalProfile#UADefault"		Index: 30266	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/schema#BrowserUA"		Index: 30353	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/1999/02/22-rdf-syntax-ns#"		Index: 31716	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2002/11/08-ccpp-schema#"		Index: 31782	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/schema#"		Index: 31844	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/profile#MyProfile"		Index: 31914	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/profile#TerminalHardware"		Index: 32023	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/schema#HardwarePlatform"		Index: 32117	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/hardwareProfile#HWDefault"		Index: 32217	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/1999/02/22-rdf-syntax-ns#"		Index: 32461	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/schema#"		Index: 32525	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/hardwareProfile#HWDefault"		Index: 32594	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/schema#HardwarePlatform"		Index: 32681	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/1999/02/22-rdf-syntax-ns#"		Index: 35651	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2002/11/08-ccpp-schema#"		Index: 35713	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.wapforum.org/profiles/UAPROF/ccppschema-20010430#"		Index: 35772	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.wapforum.org/UAPROF/ccppschema-20000405#"		Index: 36585	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2002/11/08-ccpp-schema#		Index: 37255	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2002/11/08-ccpp-client#		Index: 37414	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2002/11/08-ccpp-schema#.		Index: 38446	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2002/11/08-ccpp-schema#.		Index: 42587	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/1999/02/22-rdf-syntax-ns#"		Index: 46258	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2002/11/08-ccpp-schema#"		Index: 46324	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/1999/02/22-rdf-syntax-ns#"		Index: 49148	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2002/11/08-ccpp-schema#"		Index: 49214	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/1999/02/22-rdf-syntax-ns#"		Index: 51674	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/1999/02/22-rdf-syntax-ns#"		Index: 52196	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/1999/02/22-rdf-syntax-ns#"		Index: 52693	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.wapforum.org/profiles/UAPROF/ccppschema-20010430#",		Index: 53484	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/1999/02/22-rdf-syntax-ns#"		Index: 53760	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2002/11/08-ccpp-schema#"		Index: 53826	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.wapforum.org/profiles/UAPROF/ccppschema-20010430#"		Index: 53889	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.wapforum.org/profiles/UAPROF/ccppschema-20010430#HardwarePlatform"		Index: 54139	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.wapforum.org/profiles/UAPROF/ccppschema-20010430#SoftwarePlatform"		Index: 54473	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.wapforum.org/profiles/UAPROF/ccppschema-20010430#BrowserUA"		Index: 54844	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2001/XMLSchema"		Index: 62681	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2003/WD-CCPP-struct-vocab-20030728/"		Index: 62734	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2002/11/08-ccpp-client#		Index: 67906	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2002/11/08-ccpp-client#type		Index: 68039	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2000/REC-xml-20001006		Index: 76113	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/XML/xml-V10-2e-errata,		Index: 76216	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/XML/xml-V10-2e-errata#E26.		Index: 76270	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/1999/REC-xml-names-19990114/		Index: 76449	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/1999/REC-rdf-syntax-19990222/		Index: 76659	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2000/CR-rdf-schema-20000327/		Index: 76873	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2003/WD-rdf-syntax-grammar-20030123/		Index: 77017	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.wapforum.org/what/technical_1_2.htm		Index: 77923	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.wapforum.org/what/technical.htm		Index: 78027	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2001/REC-xmlschema-0-20010502/		Index: 78313	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2001/REC-xmlschema-1-20010502/		Index: 78529	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2001/REC-xmlschema-2-20010502/		Index: 78710	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/DesignIssues/Toolbox.html		Index: 78857	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2000/WD-CCPP-ra-20000721/		Index: 81117	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/1999/06/NOTE-CCPPexchange-19990624		Index: 81902	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2002/WD-WCAG20-20020822/		Index: 82108	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2003/WD-rdf-primer-20030123/		Index: 82262	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2002/11/08-ccpp-schema		Index: 93092	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/1999/02/22-rdf-syntax-ns#'		Index: 93258	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2000/01/rdf-schema#'		Index: 93324	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2002/11/08-ccpp-schema#'		Index: 93384	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/xmlschema-2/#string'/		Index: 94767	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/xmlschema-2/#integer'/		Index: 95176	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2002/11/08-ccpp-client.		Index: 99499	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2002/11/08-ccpp-client		Index: 103406	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/1999/02/22-rdf-syntax-ns#'		Index: 103556	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2000/01/rdf-schema#'		Index: 103622	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2002/11/08-ccpp-schema#'		Index: 103682	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2002/11/08-ccpp-client#'		Index: 103753	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/XML/xml-V10-2e-errata#E26.		Index: 134463	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2002/05/20-ccpp#.		Index: 136188	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2002/12/13-ccpp-schema		Index: 139402	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2002/12/13-ccpp		Index: 139447	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2002/11/08-ccpp		Index: 140626	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2002/11/08-ccpp-schema		Index: 140663	In File: Composite Capability Preference Profiles (CC PP)  Structure and Vocabularies 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 109	In File: Cross-Origin Resource Sharing.htm
+Domain w3.org links : http://www.w3.org	Index: 170	In File: Cross-Origin Resource Sharing.htm
+Domain w3.org links : http://www.w3.org	Index: 216	In File: Cross-Origin Resource Sharing.htm
+Domain w3.org links : http://www.w3.org	Index: 260	In File: Cross-Origin Resource Sharing.htm
+Domain w3.org links : http://www.w3.org	Index: 304	In File: Cross-Origin Resource Sharing.htm
+Domain w3.org links : http://www.w3.org	Index: 348	In File: Cross-Origin Resource Sharing.htm
+Domain w3.org links : http://www.w3.org	Index: 392	In File: Cross-Origin Resource Sharing.htm
+Domain w3.org links : http://www.w3.org	Index: 436	In File: Cross-Origin Resource Sharing.htm
+Domain w3.org links : http://www.w3.org	Index: 490	In File: Cross-Origin Resource Sharing.htm
+Domain w3.org links : http://www.w3.org	Index: 544	In File: Cross-Origin Resource Sharing.htm
+Domain w3.org links : http://www.w3.org	Index: 598	In File: Cross-Origin Resource Sharing.htm
+Domain w3.org links : http://www.w3.org	Index: 652	In File: Cross-Origin Resource Sharing.htm
+Domain w3.org links : http://www.w3.org	Index: 706	In File: Cross-Origin Resource Sharing.htm
+Domain w3.org links : http://www.w3.org	Index: 760	In File: Cross-Origin Resource Sharing.htm
+Domain w3.org links : http://www.w3.org	Index: 814	In File: Cross-Origin Resource Sharing.htm
+Domain w3.org links : http://www.w3.org	Index: 2086	In File: Cross-Origin Resource Sharing.htm
+Links with Folders: http://www.w3.org/TR/2014/REC-cors-20140116/	Index: 109	In File: Cross-Origin Resource Sharing.htm
+Links with Folders: http://www.w3.org/TR/cors/	Index: 170	In File: Cross-Origin Resource Sharing.htm
+Links with Folders: http://www.w3.org/TR/2013/PR-cors-20131205/	Index: 216	In File: Cross-Origin Resource Sharing.htm
+Links with Folders: http://www.w3.org/TR/2013/CR-cors-20130129/	Index: 260	In File: Cross-Origin Resource Sharing.htm
+Links with Folders: http://www.w3.org/TR/2012/WD-cors-20120403/	Index: 304	In File: Cross-Origin Resource Sharing.htm
+Links with Folders: http://www.w3.org/TR/2010/WD-cors-20100727/	Index: 348	In File: Cross-Origin Resource Sharing.htm
+Links with Folders: http://www.w3.org/TR/2009/WD-cors-20090317/	Index: 392	In File: Cross-Origin Resource Sharing.htm
+Links with Folders: http://www.w3.org/TR/2008/WD-access-control-20080912/	Index: 436	In File: Cross-Origin Resource Sharing.htm
+Links with Folders: http://www.w3.org/TR/2008/WD-access-control-20080214/	Index: 490	In File: Cross-Origin Resource Sharing.htm
+Links with Folders: http://www.w3.org/TR/2007/WD-access-control-20071126/	Index: 544	In File: Cross-Origin Resource Sharing.htm
+Links with Folders: http://www.w3.org/TR/2007/WD-access-control-20071001/	Index: 598	In File: Cross-Origin Resource Sharing.htm
+Links with Folders: http://www.w3.org/TR/2007/WD-access-control-20070618/	Index: 652	In File: Cross-Origin Resource Sharing.htm
+Links with Folders: http://www.w3.org/TR/2007/WD-access-control-20070215/	Index: 706	In File: Cross-Origin Resource Sharing.htm
+Links with Folders: http://www.w3.org/TR/2006/WD-access-control-20060517/	Index: 760	In File: Cross-Origin Resource Sharing.htm
+Links with Folders: http://www.w3.org/TR/2005/NOTE-access-control-20050613/	Index: 814	In File: Cross-Origin Resource Sharing.htm
+Links with Folders: http://www.w3.org/TR/.	Index: 2086	In File: Cross-Origin Resource Sharing.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2014/REC-cors-20140116/		Index: 109	In File: Cross-Origin Resource Sharing.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/cors/		Index: 170	In File: Cross-Origin Resource Sharing.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2013/PR-cors-20131205/		Index: 216	In File: Cross-Origin Resource Sharing.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2013/CR-cors-20130129/		Index: 260	In File: Cross-Origin Resource Sharing.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2012/WD-cors-20120403/		Index: 304	In File: Cross-Origin Resource Sharing.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2010/WD-cors-20100727/		Index: 348	In File: Cross-Origin Resource Sharing.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2009/WD-cors-20090317/		Index: 392	In File: Cross-Origin Resource Sharing.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2008/WD-access-control-20080912/		Index: 436	In File: Cross-Origin Resource Sharing.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2008/WD-access-control-20080214/		Index: 490	In File: Cross-Origin Resource Sharing.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2007/WD-access-control-20071126/		Index: 544	In File: Cross-Origin Resource Sharing.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2007/WD-access-control-20071001/		Index: 598	In File: Cross-Origin Resource Sharing.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2007/WD-access-control-20070618/		Index: 652	In File: Cross-Origin Resource Sharing.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2007/WD-access-control-20070215/		Index: 706	In File: Cross-Origin Resource Sharing.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2006/WD-access-control-20060517/		Index: 760	In File: Cross-Origin Resource Sharing.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2005/NOTE-access-control-20050613/		Index: 814	In File: Cross-Origin Resource Sharing.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/.		Index: 2086	In File: Cross-Origin Resource Sharing.htm
+Domain w3.org links : http://www.w3.org	Index: 142	In File: CSS Namespaces Module Level 3.htm
+Domain w3.org links : http://www.w3.org	Index: 215	In File: CSS Namespaces Module Level 3.htm
+Domain w3.org links : http://www.w3.org	Index: 328	In File: CSS Namespaces Module Level 3.htm
+Domain w3.org links : http://www.w3.org	Index: 1657	In File: CSS Namespaces Module Level 3.htm
+Domain w3.org links : http://www.w3.org	Index: 6464	In File: CSS Namespaces Module Level 3.htm
+Domain w3.org links : http://www.w3.org	Index: 6513	In File: CSS Namespaces Module Level 3.htm
+Domain w3.org links : http://www.w3.org	Index: 6587	In File: CSS Namespaces Module Level 3.htm
+Domain w3.org links : http://www.w3.org	Index: 6766	In File: CSS Namespaces Module Level 3.htm
+Domain w3.org links : http://www.w3.org	Index: 13664	In File: CSS Namespaces Module Level 3.htm
+Domain w3.org links : http://www.w3.org	Index: 13939	In File: CSS Namespaces Module Level 3.htm
+Domain w3.org links : http://www.w3.org	Index: 14105	In File: CSS Namespaces Module Level 3.htm
+Links with Folders: http://www.w3.org/TR/2014/REC-css-namespaces-3-20140320/	Index: 142	In File: CSS Namespaces Module Level 3.htm
+Links with Folders: http://www.w3.org/TR/css-namespaces-3/	Index: 215	In File: CSS Namespaces Module Level 3.htm
+Links with Folders: http://www.w3.org/TR/2011/REC-css3-namespace-20110929/	Index: 328	In File: CSS Namespaces Module Level 3.htm
+Links with Folders: http://www.w3.org/TR/.	Index: 1657	In File: CSS Namespaces Module Level 3.htm
+Links with Folders: http://www.w3.org/1999/xhtml";	Index: 6464	In File: CSS Namespaces Module Level 3.htm
+Links with Folders: http://www.w3.org/2000/svg";	Index: 6513	In File: CSS Namespaces Module Level 3.htm
+Links with Folders: http://www.w3.org/1999/xhtml	Index: 6587	In File: CSS Namespaces Module Level 3.htm
+Links with Folders: http://www.w3.org/2000/svg	Index: 6766	In File: CSS Namespaces Module Level 3.htm
+Links with Folders: http://www.w3.org/TR/2011/REC-CSS2-20110607	Index: 13664	In File: CSS Namespaces Module Level 3.htm
+Links with Folders: http://www.w3.org/TR/2009/REC-xml-names-20091208/	Index: 13939	In File: CSS Namespaces Module Level 3.htm
+Links with Folders: http://www.w3.org/TR/2011/REC-css3-selectors-20110929/	Index: 14105	In File: CSS Namespaces Module Level 3.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2014/REC-css-namespaces-3-20140320/		Index: 142	In File: CSS Namespaces Module Level 3.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/css-namespaces-3/		Index: 215	In File: CSS Namespaces Module Level 3.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2011/REC-css3-namespace-20110929/		Index: 328	In File: CSS Namespaces Module Level 3.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/.		Index: 1657	In File: CSS Namespaces Module Level 3.htm
+Links with domain .net, .com, .org: http://www.w3.org/1999/xhtml";		Index: 6464	In File: CSS Namespaces Module Level 3.htm
+Links with domain .net, .com, .org: http://www.w3.org/2000/svg";		Index: 6513	In File: CSS Namespaces Module Level 3.htm
+Links with domain .net, .com, .org: http://www.w3.org/1999/xhtml		Index: 6587	In File: CSS Namespaces Module Level 3.htm
+Links with domain .net, .com, .org: http://www.w3.org/2000/svg		Index: 6766	In File: CSS Namespaces Module Level 3.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2011/REC-CSS2-20110607		Index: 13664	In File: CSS Namespaces Module Level 3.htm
+Links with domain .net, .com, .org: http://www.ietf.org/rfc/rfc2119.txt		Index: 13793	In File: CSS Namespaces Module Level 3.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2009/REC-xml-names-20091208/		Index: 13939	In File: CSS Namespaces Module Level 3.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2011/REC-css3-selectors-20110929/		Index: 14105	In File: CSS Namespaces Module Level 3.htm
+Domain w3.org links : http://www.w3.org	Index: 113	In File: CSS3 module  Presentation Levels.htm
+Domain w3.org links : http://www.w3.org	Index: 180	In File: CSS3 module  Presentation Levels.htm
+Domain w3.org links : http://www.w3.org	Index: 1186	In File: CSS3 module  Presentation Levels.htm
+Links with Folders: http://www.w3.org/TR/2003/WD-css3-preslev-20030813	Index: 113	In File: CSS3 module  Presentation Levels.htm
+Links with Folders: http://www.w3.org/TR/css3-preslev	Index: 180	In File: CSS3 module  Presentation Levels.htm
+Links with Folders: http://www.w3.org/TR/.	Index: 1186	In File: CSS3 module  Presentation Levels.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2003/WD-css3-preslev-20030813		Index: 113	In File: CSS3 module  Presentation Levels.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/css3-preslev		Index: 180	In File: CSS3 module  Presentation Levels.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/.		Index: 1186	In File: CSS3 module  Presentation Levels.htm
+Domain w3.org links : http://www.w3.org	Index: 141	In File: Defining N-ary Relations on the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 218	In File: Defining N-ary Relations on the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 277	In File: Defining N-ary Relations on the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 1766	In File: Defining N-ary Relations on the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 28532	In File: Defining N-ary Relations on the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 28722	In File: Defining N-ary Relations on the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 28805	In File: Defining N-ary Relations on the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 28992	In File: Defining N-ary Relations on the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 29072	In File: Defining N-ary Relations on the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 29305	In File: Defining N-ary Relations on the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 29389	In File: Defining N-ary Relations on the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 29529	In File: Defining N-ary Relations on the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 29610	In File: Defining N-ary Relations on the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 29733	In File: Defining N-ary Relations on the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 29810	In File: Defining N-ary Relations on the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 29987	In File: Defining N-ary Relations on the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 30068	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/2006/NOTE-swbp-n-aryRelations-20060412/	Index: 141	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/swbp-n-aryRelations	Index: 218	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/2004/WD-swbp-n-aryRelations-20040721/	Index: 277	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/.	Index: 1766	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/swbp-specified-values/	Index: 28532	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/2004/REC-owl-features-20040210/	Index: 28722	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/owl-features/	Index: 28805	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/2004/REC-owl-guide-20040210/	Index: 28992	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/owl-guide/	Index: 29072	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/2004/REC-owl-semantics-20040210/	Index: 29305	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/owl-semantics/	Index: 29389	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/2004/REC-rdf-primer-20040210/	Index: 29529	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/rdf-primer/	Index: 29610	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/2004/REC-rdf-mt-20040210/	Index: 29733	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/rdf-mt/	Index: 29810	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/2004/REC-rdf-schema-20040210/	Index: 29987	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/rdf-schema/	Index: 30068	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2006/NOTE-swbp-n-aryRelations-20060412/		Index: 141	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/swbp-n-aryRelations		Index: 218	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2004/WD-swbp-n-aryRelations-20040721/		Index: 277	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/.		Index: 1766	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/swbp-specified-values/		Index: 28532	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2004/REC-owl-features-20040210/		Index: 28722	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/owl-features/		Index: 28805	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2004/REC-owl-guide-20040210/		Index: 28992	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/owl-guide/		Index: 29072	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2004/REC-owl-semantics-20040210/		Index: 29305	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/owl-semantics/		Index: 29389	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2004/REC-rdf-primer-20040210/		Index: 29529	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/rdf-primer/		Index: 29610	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2004/REC-rdf-mt-20040210/		Index: 29733	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/rdf-mt/		Index: 29810	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2004/REC-rdf-schema-20040210/		Index: 29987	In File: Defining N-ary Relations on the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/rdf-schema/		Index: 30068	In File: Defining N-ary Relations on the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 116	In File: Design of HTTP-NG Testbed.htm
+Domain w3.org links : http://www.w3.org	Index: 195	In File: Design of HTTP-NG Testbed.htm
+Links with Folders: http://www.w3.org/TR/1998/NOTE-HTTP-NG-testbed-980710	Index: 116	In File: Design of HTTP-NG Testbed.htm
+Links with Folders: http://www.w3.org/TR/NOTE-HTTP-NG-testbed	Index: 195	In File: Design of HTTP-NG Testbed.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/1998/NOTE-HTTP-NG-testbed-980710		Index: 116	In File: Design of HTTP-NG Testbed.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/NOTE-HTTP-NG-testbed		Index: 195	In File: Design of HTTP-NG Testbed.htm
+Domain w3.org links : http://www.w3.org	Index: 103	In File: Device APIs Requirements.htm
+Domain w3.org links : http://www.w3.org	Index: 183	In File: Device APIs Requirements.htm
+Domain w3.org links : http://www.w3.org	Index: 1135	In File: Device APIs Requirements.htm
+Domain w3.org links : http://www.w3.org	Index: 13648	In File: Device APIs Requirements.htm
+Domain w3.org links : http://www.w3.org	Index: 14010	In File: Device APIs Requirements.htm
+Domain w3.org links : http://www.w3.org	Index: 14157	In File: Device APIs Requirements.htm
+Domain w3.org links : http://www.w3.org	Index: 14360	In File: Device APIs Requirements.htm
+Links with Folders: http://www.w3.org/TR/2009/NOTE-dap-api-reqs-20091015/	Index: 103	In File: Device APIs Requirements.htm
+Links with Folders: http://www.w3.org/TR/dap-api-reqs/	Index: 183	In File: Device APIs Requirements.htm
+Links with Folders: http://www.w3.org/TR/.	Index: 1135	In File: Device APIs Requirements.htm
+Links with Folders: http://www.w3.org/TR/2006/WD-file-upload-20061018	Index: 13648	In File: Device APIs Requirements.htm
+Links with Folders: http://www.w3.org/TR/2009/WD-html5-20090423/	Index: 14010	In File: Device APIs Requirements.htm
+Links with Folders: http://www.w3.org/TR/2009/WD-webstorage-20090910/	Index: 14157	In File: Device APIs Requirements.htm
+Links with Folders: http://www.w3.org/TR/2009/WD-widgets-apis-20090818/	Index: 14360	In File: Device APIs Requirements.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2009/NOTE-dap-api-reqs-20091015/		Index: 103	In File: Device APIs Requirements.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/dap-api-reqs/		Index: 183	In File: Device APIs Requirements.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/.		Index: 1135	In File: Device APIs Requirements.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2006/WD-file-upload-20061018		Index: 13648	In File: Device APIs Requirements.htm
+Links with domain .net, .com, .org: http://www.rfc-editor.org/rfc/rfc5545.txt		Index: 13840	In File: Device APIs Requirements.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2009/WD-html5-20090423/		Index: 14010	In File: Device APIs Requirements.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2009/WD-webstorage-20090910/		Index: 14157	In File: Device APIs Requirements.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2009/WD-widgets-apis-20090818/		Index: 14360	In File: Device APIs Requirements.htm
+Domain w3.org links : http://www.w3.org	Index: 5822	In File: Graphics - W3C.htm
+Links with Folders: http://www.w3.org/2000/svg"	Index: 5822	In File: Graphics - W3C.htm
+Links with domain .net, .com, .org: http://www.w3.org/2000/svg"		Index: 5822	In File: Graphics - W3C.htm
+Domain w3.org links : http://www.w3.org	Index: 161	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 232	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 286	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 1977	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 26569	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 36463	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 37545	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 37716	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 37880	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 38117	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 38266	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 38490	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 38563	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Links with Folders: http://www.w3.org/TR/2010/NOTE-ct-guidelines-20101026/	Index: 161	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Links with Folders: http://www.w3.org/TR/ct-guidelines/	Index: 232	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Links with Folders: http://www.w3.org/TR/2010/CR-ct-guidelines-20100617/	Index: 286	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Links with Folders: http://www.w3.org/TR/.	Index: 1977	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Links with Folders: http://www.w3.org/ns/ct".	Index: 26569	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Links with Folders: http://www.w3.org/TR/2009/NOTE-ct-landscape-20091027/	Index: 36463	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Links with Folders: http://www.w3.org/TR/2008/REC-mobile-bp-20080729/	Index: 37545	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Links with Folders: http://www.w3.org/TR/2008/REC-mobileOK-basic10-tests-20081208/	Index: 37716	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Links with Folders: http://www.w3.org/TR/2009/NOTE-mobileOK-20090825/	Index: 37880	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Links with Folders: http://www.w3.org/TR/2009/REC-powder-grouping-20090901/	Index: 38117	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Links with Folders: http://www.w3.org/TR/2010/CR-XMLHttpRequest-20100803/	Index: 38266	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Links with Folders: http://www.w3.org/TR/2008/REC-xml-20081126/	Index: 38490	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Links with Folders: http://www.w3.org/TR/2010/NOTE-ct-guidelines-20101026/ics	Index: 38563	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2010/NOTE-ct-guidelines-20101026/		Index: 161	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/ct-guidelines/		Index: 232	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2010/CR-ct-guidelines-20100617/		Index: 286	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/.		Index: 1977	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/ns/ct".		Index: 26569	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2009/NOTE-ct-landscape-20091027/		Index: 36463	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Links with domain .net, .com, .org: http://www.ietf.org/rfc/rfc2119.txt		Index: 36643	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2008/REC-mobile-bp-20080729/		Index: 37545	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2008/REC-mobileOK-basic10-tests-20081208/		Index: 37716	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2009/NOTE-mobileOK-20090825/		Index: 37880	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2009/REC-powder-grouping-20090901/		Index: 38117	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2010/CR-XMLHttpRequest-20100803/		Index: 38266	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2008/REC-xml-20081126/		Index: 38490	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2010/NOTE-ct-guidelines-20101026/ics		Index: 38563	In File: Guidelines for Web Content Transformation Proxies 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/report”:		Index: 3192	In File: HTML & CSS - W3C.htm
+Links with domain .net, .com, .org: http://www.example.com/report"		Index: 3283	In File: HTML & CSS - W3C.htm
+Domain w3.org links : http://www.w3.org	Index: 71	In File: HTML Imports.htm
+Domain w3.org links : http://www.w3.org	Index: 138	In File: HTML Imports.htm
+Domain w3.org links : http://www.w3.org	Index: 190	In File: HTML Imports.htm
+Domain w3.org links : http://www.w3.org	Index: 1045	In File: HTML Imports.htm
+Links with Folders: http://www.w3.org/TR/2014/WD-html-imports-20140311/	Index: 71	In File: HTML Imports.htm
+Links with Folders: http://www.w3.org/TR/html-imports/	Index: 138	In File: HTML Imports.htm
+Links with Folders: http://www.w3.org/TR/2013/WD-html-imports-20130514/	Index: 190	In File: HTML Imports.htm
+Links with Folders: http://www.w3.org/TR/.	Index: 1045	In File: HTML Imports.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2014/WD-html-imports-20140311/		Index: 71	In File: HTML Imports.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/html-imports/		Index: 138	In File: HTML Imports.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2013/WD-html-imports-20130514/		Index: 190	In File: HTML Imports.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/.		Index: 1045	In File: HTML Imports.htm
+Domain w3.org links : http://www.w3.org	Index: 80	In File: HTML Templates.htm
+Domain w3.org links : http://www.w3.org	Index: 151	In File: HTML Templates.htm
+Domain w3.org links : http://www.w3.org	Index: 303	In File: HTML Templates.htm
+Domain w3.org links : http://www.w3.org	Index: 1286	In File: HTML Templates.htm
+Links with Folders: http://www.w3.org/TR/2014/NOTE-html-templates-20140318/	Index: 80	In File: HTML Templates.htm
+Links with Folders: http://www.w3.org/TR/html-templates/	Index: 151	In File: HTML Templates.htm
+Links with Folders: http://www.w3.org/TR/2013/WD-html-templates-20130214/	Index: 303	In File: HTML Templates.htm
+Links with Folders: http://www.w3.org/TR/.	Index: 1286	In File: HTML Templates.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2014/NOTE-html-templates-20140318/		Index: 80	In File: HTML Templates.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/html-templates/		Index: 151	In File: HTML Templates.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2013/WD-html-templates-20130214/		Index: 303	In File: HTML Templates.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/.		Index: 1286	In File: HTML Templates.htm
+Domain w3.org links : http://www.w3.org	Index: 128	In File: HTTP-NG Binary Wire Protocol.htm
+Domain w3.org links : http://www.w3.org	Index: 195	In File: HTTP-NG Binary Wire Protocol.htm
+Domain w3.org links : http://www.w3.org	Index: 814	In File: HTTP-NG Binary Wire Protocol.htm
+Domain w3.org links : http://www.w3.org	Index: 44370	In File: HTTP-NG Binary Wire Protocol.htm
+Domain w3.org links : http://www.w3.org	Index: 44444	In File: HTTP-NG Binary Wire Protocol.htm
+Links with Folders: http://www.w3.org/TR/1998/WD-HTTP-NG-wire-19980710	Index: 128	In File: HTTP-NG Binary Wire Protocol.htm
+Links with Folders: http://www.w3.org/TR/WD-HTTP-NG-wire	Index: 195	In File: HTTP-NG Binary Wire Protocol.htm
+Links with Folders: http://www.w3.org/TR.	Index: 814	In File: HTTP-NG Binary Wire Protocol.htm
+Links with Folders: http://www.w3.org/TR/1998/WD-HTTP-NG-architecture	Index: 44370	In File: HTTP-NG Binary Wire Protocol.htm
+Links with Folders: http://www.w3.org/TR/1998/WD-mux	Index: 44444	In File: HTTP-NG Binary Wire Protocol.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/1998/WD-HTTP-NG-wire-19980710		Index: 128	In File: HTTP-NG Binary Wire Protocol.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/WD-HTTP-NG-wire		Index: 195	In File: HTTP-NG Binary Wire Protocol.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR.		Index: 814	In File: HTTP-NG Binary Wire Protocol.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/1998/WD-HTTP-NG-architecture		Index: 44370	In File: HTTP-NG Binary Wire Protocol.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/1998/WD-mux		Index: 44444	In File: HTTP-NG Binary Wire Protocol.htm
+Links with domain .net, .com, .org: http://www.parc.xerox.com/istl/members/janssen/		Index: 44733	In File: HTTP-NG Binary Wire Protocol.htm
+Domain w3.org links : http://www.w3.org	Index: 155	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 218	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 263	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 1672	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 16653	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 46011	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 46091	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 46418	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 46493	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 46695	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 46776	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 46960	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 47029	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 47211	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 47287	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 47424	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 47626	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 47699	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 47956	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 48029	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/2003/NOTE-lbase-20031010/	Index: 155	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/lbase	Index: 218	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/2003/NOTE-lbase-20030905	Index: 263	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/.	Index: 1672	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with Folders: http://www.w3.org/"	Index: 16653	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/2002/WD-owl-ref-20021112/	Index: 46011	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/owl-ref/.	Index: 46091	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/2003/WD-rdf-concepts-20031010/.	Index: 46418	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/rdf-concepts/	Index: 46493	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/2003/WD-rdf-syntax-grammar-20031010/.	Index: 46695	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/rdf-syntax-grammar/	Index: 46776	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/2003/WD-rdf-mt-20031010/.	Index: 46960	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/rdf-mt/	Index: 47029	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/2003/WD-rdf-testcases-20031010/.	Index: 47211	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/rdf-testcases/.	Index: 47287	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/1999/REC-rdf-syntax-19990222/	Index: 47424	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/2003/WD-rdf-primer-20031010/.	Index: 47626	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/rdf-primer/	Index: 47699	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/2003/WD-rdf-schema-20031010/.	Index: 47956	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with Folders: http://www.w3.org/TR/rdf-schema/	Index: 48029	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2003/NOTE-lbase-20031010/		Index: 155	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/lbase		Index: 218	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2003/NOTE-lbase-20030905		Index: 263	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/.		Index: 1672	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/"		Index: 16653	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2002/WD-owl-ref-20021112/		Index: 46011	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/owl-ref/.		Index: 46091	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2003/WD-rdf-concepts-20031010/.		Index: 46418	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/rdf-concepts/		Index: 46493	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2003/WD-rdf-syntax-grammar-20031010/.		Index: 46695	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/rdf-syntax-grammar/		Index: 46776	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2003/WD-rdf-mt-20031010/.		Index: 46960	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/rdf-mt/		Index: 47029	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2003/WD-rdf-testcases-20031010/.		Index: 47211	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/rdf-testcases/.		Index: 47287	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/1999/REC-rdf-syntax-19990222/		Index: 47424	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2003/WD-rdf-primer-20031010/.		Index: 47626	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/rdf-primer/		Index: 47699	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2003/WD-rdf-schema-20031010/.		Index: 47956	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/rdf-schema/		Index: 48029	In File: LBase  Semantics for Languages of the Semantic Web.htm
+Domain w3.org links : http://www.w3.org	Index: 209	In File: Legacy extended IRIs for XML resource identification.htm
+Domain w3.org links : http://www.w3.org	Index: 272	In File: Legacy extended IRIs for XML resource identification.htm
+Domain w3.org links : http://www.w3.org	Index: 1470	In File: Legacy extended IRIs for XML resource identification.htm
+Links with Folders: http://www.w3.org/TR/2008/NOTE-leiri-20081103/	Index: 209	In File: Legacy extended IRIs for XML resource identification.htm
+Links with Folders: http://www.w3.org/TR/leiri/	Index: 272	In File: Legacy extended IRIs for XML resource identification.htm
+Links with Folders: http://www.w3.org/TR/.	Index: 1470	In File: Legacy extended IRIs for XML resource identification.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2008/NOTE-leiri-20081103/		Index: 209	In File: Legacy extended IRIs for XML resource identification.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/leiri/		Index: 272	In File: Legacy extended IRIs for XML resource identification.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/.		Index: 1470	In File: Legacy extended IRIs for XML resource identification.htm
+Domain w3.org links : http://www.w3.org	Index: 92	In File: Linked Data Glossary.htm
+Domain w3.org links : http://www.w3.org	Index: 171	In File: Linked Data Glossary.htm
+Domain w3.org links : http://www.w3.org	Index: 1205	In File: Linked Data Glossary.htm
+Domain w3.org links : http://www.w3.org	Index: 25677	In File: Linked Data Glossary.htm
+Domain w3.org links : http://www.w3.org	Index: 35947	In File: Linked Data Glossary.htm
+Domain w3.org links : http://www.w3.org	Index: 36958	In File: Linked Data Glossary.htm
+Domain w3.org links : http://www.w3.org	Index: 37001	In File: Linked Data Glossary.htm
+Domain w3.org links : http://www.w3.org	Index: 41608	In File: Linked Data Glossary.htm
+Domain w3.org links : http://www.w3.org	Index: 41753	In File: Linked Data Glossary.htm
+Domain w3.org links : http://www.w3.org	Index: 41949	In File: Linked Data Glossary.htm
+Domain w3.org links : http://www.w3.org	Index: 42130	In File: Linked Data Glossary.htm
+Domain w3.org links : http://www.w3.org	Index: 42297	In File: Linked Data Glossary.htm
+Domain w3.org links : http://www.w3.org	Index: 42423	In File: Linked Data Glossary.htm
+Domain w3.org links : http://www.w3.org	Index: 42582	In File: Linked Data Glossary.htm
+Domain w3.org links : http://www.w3.org	Index: 43107	In File: Linked Data Glossary.htm
+Domain w3.org links : http://www.w3.org	Index: 43265	In File: Linked Data Glossary.htm
+Domain w3.org links : http://www.w3.org	Index: 43441	In File: Linked Data Glossary.htm
+Domain w3.org links : http://www.w3.org	Index: 43631	In File: Linked Data Glossary.htm
+Domain w3.org links : http://www.w3.org	Index: 43837	In File: Linked Data Glossary.htm
+Domain w3.org links : http://www.w3.org	Index: 44011	In File: Linked Data Glossary.htm
+Domain w3.org links : http://www.w3.org	Index: 44195	In File: Linked Data Glossary.htm
+Domain w3.org links : http://www.w3.org	Index: 44490	In File: Linked Data Glossary.htm
+Domain w3.org links : http://www.w3.org	Index: 44829	In File: Linked Data Glossary.htm
+Domain w3.org links : http://www.w3.org	Index: 44971	In File: Linked Data Glossary.htm
+Domain w3.org links : http://www.w3.org	Index: 45173	In File: Linked Data Glossary.htm
+Links with Folders: http://www.w3.org/TR/2013/NOTE-ld-glossary-20130627/	Index: 92	In File: Linked Data Glossary.htm
+Links with Folders: http://www.w3.org/TR/ld-glossary/	Index: 171	In File: Linked Data Glossary.htm
+Links with Folders: http://www.w3.org/TR/.	Index: 1205	In File: Linked Data Glossary.htm
+Links with Folders: http://www.w3.org/TR/vocab-org/]	Index: 25677	In File: Linked Data Glossary.htm
+Links with Folders: http://www.w3.org/DesignIssues/Architecture.html.	Index: 35947	In File: Linked Data Glossary.htm
+Links with Folders: http://www.w3.org/RDF/Validator/.	Index: 36958	In File: Linked Data Glossary.htm
+Links with Folders: http://www.w3.org/People/Barstow/#online_parsers.	Index: 37001	In File: Linked Data Glossary.htm
+Links with Folders: http://www.w3.org/TR/owl2-overview/	Index: 41608	In File: Linked Data Glossary.htm
+Links with Folders: http://www.w3.org/TR/REC-rdf-syntax/	Index: 41753	In File: Linked Data Glossary.htm
+Links with Folders: http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/	Index: 41949	In File: Linked Data Glossary.htm
+Links with Folders: http://www.w3.org/TR/rdf11-concepts	Index: 42130	In File: Linked Data Glossary.htm
+Links with Folders: http://www.w3.org/TR/rdf-schema/	Index: 42297	In File: Linked Data Glossary.htm
+Links with Folders: http://www.w3.org/TR/2012/NOTE-rdfa-primer-20120607/	Index: 42423	In File: Linked Data Glossary.htm
+Links with Folders: http://www.w3.org/Protocols/rfc2616/rfc2616.html.	Index: 42582	In File: Linked Data Glossary.htm
+Links with Folders: http://www.w3.org/TR/2009/REC-skos-reference-20090818/	Index: 43107	In File: Linked Data Glossary.htm
+Links with Folders: http://www.w3.org/TR/sparql11-overview/	Index: 43265	In File: Linked Data Glossary.htm
+Links with Folders: http://www.w3.org/TR/turtle/	Index: 43441	In File: Linked Data Glossary.htm
+Links with Folders: http://www.w3.org/TR/xhtml1/	Index: 43631	In File: Linked Data Glossary.htm
+Links with Folders: http://www.w3.org/TR/REC-xml/	Index: 43837	In File: Linked Data Glossary.htm
+Links with Folders: http://www.w3.org/TR/xmlschema-0/	Index: 44011	In File: Linked Data Glossary.htm
+Links with Folders: http://www.w3.org/TR/cooluris/	Index: 44195	In File: Linked Data Glossary.htm
+Links with Folders: http://www.w3.org/TR/json-ld-syntax/	Index: 44490	In File: Linked Data Glossary.htm
+Links with Folders: http://www.w3.org/TR/ldp/	Index: 44829	In File: Linked Data Glossary.htm
+Links with Folders: http://www.w3.org/TeamSubmission/n3/	Index: 44971	In File: Linked Data Glossary.htm
+Links with Folders: http://www.w3.org/TR/void/	Index: 45173	In File: Linked Data Glossary.htm
+Links with references and may contain folders: http://www.w3.org/People/Barstow/#online_parsers		Index: 37001	In File: Linked Data Glossary.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2013/NOTE-ld-glossary-20130627/		Index: 92	In File: Linked Data Glossary.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/ld-glossary/		Index: 171	In File: Linked Data Glossary.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/.		Index: 1205	In File: Linked Data Glossary.htm
+Links with domain .net, .com, .org: http://wikipedia.org/wiki/Red]		Index: 22577	In File: Linked Data Glossary.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/vocab-org/]		Index: 25677	In File: Linked Data Glossary.htm
+Links with domain .net, .com, .org: http://www.w3.org/DesignIssues/Architecture.html.		Index: 35947	In File: Linked Data Glossary.htm
+Links with domain .net, .com, .org: http://www.w3.org/RDF/Validator/.		Index: 36958	In File: Linked Data Glossary.htm
+Links with domain .net, .com, .org: http://www.w3.org/People/Barstow/#online_parsers.		Index: 37001	In File: Linked Data Glossary.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/owl2-overview/		Index: 41608	In File: Linked Data Glossary.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/REC-rdf-syntax/		Index: 41753	In File: Linked Data Glossary.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2004/REC-rdf-concepts-20040210/		Index: 41949	In File: Linked Data Glossary.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/rdf11-concepts		Index: 42130	In File: Linked Data Glossary.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/rdf-schema/		Index: 42297	In File: Linked Data Glossary.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2012/NOTE-rdfa-primer-20120607/		Index: 42423	In File: Linked Data Glossary.htm
+Links with domain .net, .com, .org: http://www.w3.org/Protocols/rfc2616/rfc2616.html.		Index: 42582	In File: Linked Data Glossary.htm
+Links with domain .net, .com, .org: http://www.ietf.org/rfc/rfc4627.txt		Index: 42921	In File: Linked Data Glossary.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2009/REC-skos-reference-20090818/		Index: 43107	In File: Linked Data Glossary.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/sparql11-overview/		Index: 43265	In File: Linked Data Glossary.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/turtle/		Index: 43441	In File: Linked Data Glossary.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/xhtml1/		Index: 43631	In File: Linked Data Glossary.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/REC-xml/		Index: 43837	In File: Linked Data Glossary.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/xmlschema-0/		Index: 44011	In File: Linked Data Glossary.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/cooluris/		Index: 44195	In File: Linked Data Glossary.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/json-ld-syntax/		Index: 44490	In File: Linked Data Glossary.htm
+Links with domain .net, .com, .org: http://www.manning.com/dwood/		Index: 44661	In File: Linked Data Glossary.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/ldp/		Index: 44829	In File: Linked Data Glossary.htm
+Links with domain .net, .com, .org: http://www.w3.org/TeamSubmission/n3/		Index: 44971	In File: Linked Data Glossary.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/void/		Index: 45173	In File: Linked Data Glossary.htm
+Domain w3.org links : http://www.w3.org	Index: 89	In File: MBUI - Task Models.htm
+Domain w3.org links : http://www.w3.org	Index: 168	In File: MBUI - Task Models.htm
+Domain w3.org links : http://www.w3.org	Index: 220	In File: MBUI - Task Models.htm
+Domain w3.org links : http://www.w3.org	Index: 1196	In File: MBUI - Task Models.htm
+Domain w3.org links : http://www.w3.org	Index: 21165	In File: MBUI - Task Models.htm
+Domain w3.org links : http://www.w3.org	Index: 21270	In File: MBUI - Task Models.htm
+Domain w3.org links : http://www.w3.org	Index: 21329	In File: MBUI - Task Models.htm
+Links with Folders: http://www.w3.org/TR/2014/NOTE-task-models-20140408/	Index: 89	In File: MBUI - Task Models.htm
+Links with Folders: http://www.w3.org/TR/task-models/	Index: 168	In File: MBUI - Task Models.htm
+Links with Folders: http://www.w3.org/TR/2013/WD-task-models-20131107/	Index: 220	In File: MBUI - Task Models.htm
+Links with Folders: http://www.w3.org/TR/.	Index: 1196	In File: MBUI - Task Models.htm
+Links with Folders: http://www.w3.org/2013/mbui-task-models"	Index: 21165	In File: MBUI - Task Models.htm
+Links with Folders: http://www.w3.org/2013/mbui-task-models"	Index: 21270	In File: MBUI - Task Models.htm
+Links with Folders: http://www.w3.org/2001/XMLSchema"	Index: 21329	In File: MBUI - Task Models.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2014/NOTE-task-models-20140408/		Index: 89	In File: MBUI - Task Models.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/task-models/		Index: 168	In File: MBUI - Task Models.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2013/WD-task-models-20131107/		Index: 220	In File: MBUI - Task Models.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/.		Index: 1196	In File: MBUI - Task Models.htm
+Links with domain .net, .com, .org: http://www.w3.org/2013/mbui-task-models"		Index: 21165	In File: MBUI - Task Models.htm
+Links with domain .net, .com, .org: http://www.w3.org/2013/mbui-task-models"		Index: 21270	In File: MBUI - Task Models.htm
+Links with domain .net, .com, .org: http://www.w3.org/2001/XMLSchema"		Index: 21329	In File: MBUI - Task Models.htm
+Domain w3.org links : http://www.w3.org	Index: 121	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 204	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 261	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 1738	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 17363	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 17522	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 17827	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 18168	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 25907	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 26353	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 32029	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 32460	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 42360	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 49263	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 55304	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 72475	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 77458	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 78801	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 80544	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 82364	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 98934	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 99119	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 99430	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 99920	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 100085	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 100250	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 100367	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 100586	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 100729	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/TR/2014/REC-mediaont-api-1.0-20140313/	Index: 121	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/TR/mediaont-api-1.0/	Index: 204	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/TR/2013/PR-mediaont-api-1.0-20131015/	Index: 261	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/TR/.	Index: 1738	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/2008/WebVideo/Annotations/drafts/metadata_formats/DC_example1.xml","dc"	Index: 17363	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/2008/WebVideo/Annotations/wiki/images/9/93/MAWG-Stockholm-20090626.JPG","exif"	Index: 17522	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/2008/WebVideo/Annotations/wiki/images/9/93/MAWG-Stockholm-20090626.JPG",	Index: 17827	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/2008/WebVideo/Annotations/wiki/images/9/93/MAWG-Stockholm-20090626.JPG",	Index: 18168	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/2008/WebVideo/Annotations/wiki/images/9/93/MAWG-Stockholm-20090626.JPG",	Index: 25907	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/2001/XMLSchema-instance'	Index: 26353	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/2008/WebVideo/Annotations/wiki/images/9/93/MAWG-Stockholm-20090626.JPG",	Index: 32029	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/2001/XMLSchema-instance'	Index: 32460	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/2008/WebVideo/Annotations/wiki/images/9/93/MAWG-Stockholm-20090626.JPG",	Index: 42360	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/2003/01/geo/wgs84_pos#Point",	Index: 49263	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/2008/WebVideo/Annotations/wiki/Image:MAWG-Stockholm-20090626_thumb.JPG",	Index: 55304	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/2008/WebVideo/Annotations/drafts/metadata_formats/DC_example1.xml","dc"	Index: 72475	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/2001/XMLSchema-instance'	Index: 77458	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/2008/WebVideo/Annotations/wiki/images/9/93/MAWG-Stockholm-20090626.JPG",	Index: 78801	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/2003/01/geo/wgs84_pos#Point",	Index: 80544	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/2008/WebVideo/Annotations/wiki/Image:MAWG-Stockholm-20090626_thumb.JPG",	Index: 82364	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/TR/2012/REC-media-frags-20120925/	Index: 98934	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/TR/2012/REC-mediaont-10-20120209/	Index: 99119	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/TR/2012/CR-WebIDL-20120419/	Index: 99430	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/TR/2010/WD-media-annot-reqs-20100121/	Index: 99920	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/TR/odrl	Index: 100085	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/TR/2006/NOTE-P3P11-20061113	Index: 100250	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/Policy/pling/	Index: 100367	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/TR/2011/NOTE-dap-policy-reqs-20110317/	Index: 100586	In File: Metadata API for Media Resources 1.0.htm
+Links with Folders: http://www.w3.org/TR/workers/	Index: 100729	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2014/REC-mediaont-api-1.0-20140313/		Index: 121	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/mediaont-api-1.0/		Index: 204	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2013/PR-mediaont-api-1.0-20131015/		Index: 261	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/.		Index: 1738	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2008/WebVideo/Annotations/drafts/metadata_formats/DC_example1.xml","dc"		Index: 17363	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2008/WebVideo/Annotations/wiki/images/9/93/MAWG-Stockholm-20090626.JPG","exif"		Index: 17522	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2008/WebVideo/Annotations/wiki/images/9/93/MAWG-Stockholm-20090626.JPG",		Index: 17827	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2008/WebVideo/Annotations/wiki/images/9/93/MAWG-Stockholm-20090626.JPG",		Index: 18168	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.imdb.com/title/tt0133152/",		Index: 24972	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2008/WebVideo/Annotations/wiki/images/9/93/MAWG-Stockholm-20090626.JPG",		Index: 25907	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2001/XMLSchema-instance'		Index: 26353	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.imdb.com/title/tt0133152/",		Index: 31244	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2008/WebVideo/Annotations/wiki/images/9/93/MAWG-Stockholm-20090626.JPG",		Index: 32029	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2001/XMLSchema-instance'		Index: 32460	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/video.ogv#t=10,20",		Index: 37345	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2008/WebVideo/Annotations/wiki/images/9/93/MAWG-Stockholm-20090626.JPG",		Index: 42360	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.imdb.com/name/nm0000318/",		Index: 43915	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2003/01/geo/wgs84_pos#Point",		Index: 49263	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2008/WebVideo/Annotations/wiki/Image:MAWG-Stockholm-20090626_thumb.JPG",		Index: 55304	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.mpaa.org/ratings/what-each-rating-means#NC-17",		Index: 61695	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.mpaa.org/ratings",		Index: 61856	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/video.ogv#t=10,20",		Index: 63167	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/video.ogv#t=30,35",		Index: 64284	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2008/WebVideo/Annotations/drafts/metadata_formats/DC_example1.xml","dc"		Index: 72475	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2001/XMLSchema-instance'		Index: 77458	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2008/WebVideo/Annotations/wiki/images/9/93/MAWG-Stockholm-20090626.JPG",		Index: 78801	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.imdb.com/name/nm0000318/",		Index: 79223	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2003/01/geo/wgs84_pos#Point",		Index: 80544	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/2008/WebVideo/Annotations/wiki/Image:MAWG-Stockholm-20090626_thumb.JPG",		Index: 82364	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.mpaa.org/ratings/what-each-rating-means#NC-17",		Index: 84200	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.mpaa.org/ratings",		Index: 84355	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/video.ogv#t=10,20",		Index: 84641	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.example.com/video.ogv#t=30,35",		Index: 84973	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2012/REC-media-frags-20120925/		Index: 98934	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2012/REC-mediaont-10-20120209/		Index: 99119	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.ietf.org/rfc/rfc2119.txt		Index: 99287	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2012/CR-WebIDL-20120419/		Index: 99430	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2010/WD-media-annot-reqs-20100121/		Index: 99920	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/odrl		Index: 100085	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2006/NOTE-P3P11-20061113		Index: 100250	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/Policy/pling/		Index: 100367	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/2011/NOTE-dap-policy-reqs-20110317/		Index: 100586	In File: Metadata API for Media Resources 1.0.htm
+Links with domain .net, .com, .org: http://www.w3.org/TR/workers/		Index: 100729	In File: Metadata API for Media Resources 1.0.htm
+Domain w3.org links : http://www.w3.org	Index: 126	In File: Mobile Web Application Best Practices.htm
+Domain w3.org links : http://www.w3.org	Index: 188	In File: Mobile Web Application Best Practices.htm
+Domain w3.org links : http://www.w3.org	Index: 234	In File: Mobile Web Application Best Practices.htm
+Domain w3.org links : http://www.w3.org	Index: 1129	In File: Mobile Web Application Best Practices.htm
+Domain w3.org links : http://www.w3.org	Index: 53855	In File: Mobile Web Application Best Practices.htm
+Domain w3.org links : http://www.w3.org	Index: 54056	In File: Mobile Web Application Best Practices.htm
+Domain w3.org links : http://www.w3.org	Index: 54214	In File: Mobile Web Application Best Practices.htm
+Domain w3.org links : http://www.w3.org	Index: 54364	In File: Mobile Web Application Best Practices.htm
+Domain w3.org links : http://www.w3.org	Index: 54604	In File: Mobile Web Application Best Practices.htm
+Domain w3.org links : http://www.w3.org	Index: 54828	In File: Mobile Web Application Best Practices.htm
+Domain w3.org links : http://www.w3.org	Index: 55005	In File: Mobile Web Application Best Practices.htm
+Domain w3.org links : http://www.w3.org	Index: 55226	In File: Mobile Web Application Best Practices.htm
+Domain w3.org links : http://www.w3.org	Index: 55460	In File: Mobile Web Application Best Practices.htm
+Domain w3.org links : http://www.w3.org	Index: 55753	In File: Mobile Web Application Best Practices.htm
+Domain w3.org links : http://www.w3.org	Index: 55983	In File: Mobile Web Application Best Practices.htm
+Domain w3.org links : http://www.w3.org	Index: 56166	In File: Mobile Web Application Best Practices.htm
+Domain w3.org links : http://www.w3.org	Index: 56244	In File: Mobile Web Application Best Practices.htm
+Domain w3.org links : http://www.w3.org	Index: 56377	In File: Mobile Web Application Best Practices.htm
+Domain w3.org links : http://www.w3.org	Index: 56531	In File: Mobile Web Application Best Practices.htm
+Domain w3.org links : http://www.w3.org	Index: 56691	In File: Mobile Web Application Best Practices.htm
+Domain w3.org links : http://www.w3.org	Index: 56800	In File: Mobile Web Application Best Practices.htm
+Domain w3.org links : http://www.w3.org	Index: 56919	In File: Mobile Web Application Best Practices.htm
+Domain w3.org links : http://www.w3.org	Index: 57297	In File: Mobile Web Application Best Practices.htm
